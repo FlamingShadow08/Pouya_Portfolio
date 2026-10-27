@@ -1,0 +1,94 @@
+{
+  "personal": {
+    "name": "پویا پوراسماعیل",
+    "nameEn": "Pouya Poursmaeil",
+    "title": "Junior Frontend Developer & Graphic Designer",
+    "handle": "pouya",
+    "age": 18,
+    "location": "ایران - البرز",
+    "email": "contact.pouya@poursmaeil.ir",
+    "contactText": "تماس با من",
+    "status": "Online",
+    "avatar": "/images/profile/avatar.jpg",
+    "about": "من دنیا رو توی خلق کردن و تعامل با بقیه می‌بینم. علاقه‌مندم چیزهایی که می‌خواستم وجود داشته باشن رو خودم بسازم یا اگه هستن، بهترشو بسازم. همیشه دوست دارم به‌روز باشم و صبر زیادی دارم و روی بی‌نقص بودن کارام حساس هستم."
+  },
+  "skills": [
+    { "name": "HTML", "level": 10 },
+    { "name": "CSS", "level": 10 },
+    { "name": "Flask", "level": 8 },
+    { "name": "Python", "level": 7 },
+    { "name": "JavaScript", "level": 5 },
+    { "name": "Django", "level": 5 },
+    { "name": "React", "level": 2 },
+    { "name": "C#", "level": 2 },
+    { "name": "C", "level": 2 }
+  ],
+  "portfolio": [
+    {
+      "id": "employee-panel",
+      "title": "پنل مدیریت کارمندان",
+      "description": "اضافه/حذف کردن فرد با قابلیت تعیین شغل و حقوق و پاداش و جریمه و حقوق ساعتی و ساعت کار و شیفت، با قابلیت مشاهده با فیلترهای مختلف و خروجی به صورت فیلتر شده در فایل اکسل",
+      "tech": ["Python", "Flask", "SQLite", "Excel Export"],
+      "image": "/images/portfolio/employee-panel.jpg",
+      "demo": null,
+      "github": null
+    },
+    {
+      "id": "local-uploader",
+      "title": "آپلودر لوکال",
+      "description": "یک وبسایت برای انتقال و یا ذخیره فایل در شبکه لوکال با قابلیت‌های آپلود نوبتی و نمایش میزان پیشرفت و استپ و کنسل کردن و درگ اند دراپ و پوشه‌بندی کردن",
+      "tech": ["HTML", "CSS", "JavaScript", "Python"],
+      "image": "/images/portfolio/local-uploader.jpg",
+      "demo": null,
+      "github": null
+    },
+    {
+      "id": "personal-ai",
+      "title": "هوش مصنوعی شخصی",
+      "description": "هوش مصنوعی شخصی برای مسائل مدیریت مالی و برنامه هفتگی همراه با پنل بصری متصل به هوش مصنوعی",
+      "tech": ["Python", "AI", "Flask", "Frontend"],
+      "image": "/images/portfolio/personal-ai.jpg",
+      "demo": null,
+      "github": null
+    }
+  ],
+  "certificates": [
+    {
+      "id": "cs50x",
+      "title": "مدرک علوم کامپیوتر CS50x هاروارد",
+      "issuer": "Harvard University (CS50)",
+      "year": "2025",
+      "image": "/images/certificates/cs50x.jpg",
+      "link": null
+    },
+    {
+      "id": "cs50-puzzle",
+      "title": "مدرک پازل دی ۲۰۲۵ CS50 هاروارد",
+      "issuer": "Harvard University (CS50)",
+      "year": "2025",
+      "image": "/images/certificates/cs50-puzzle.jpg",
+      "link": null
+    },
+    {
+      "id": "ai-tehran",
+      "title": "مدرک هوش مصنوعی از دانشگاه تهران",
+      "issuer": "دانشگاه تهران",
+      "year": "2025",
+      "image": "/images/certificates/ai-tehran.jpg",
+      "link": null
+    }
+  ],
+  "theme": {
+    "primary": "#7c3aed",
+    "secondary": "#1e3a8a",
+    "accent": "#0d9488",
+    "background": "#0a0a0f",
+    "card": "#12121a",
+    "text": "#f5f5f7",
+    "muted": "#a1a1aa"
+  },
+  "socials": {
+    "github": null,
+    "linkedin": null
+  }
+}
